@@ -2,3 +2,4 @@ This is the initial content on line 1
 This is an insert before line 2 on Test branch A
 This is additional content for line 2
 Further content for line 3
+This is an append to line 5
