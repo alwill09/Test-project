@@ -1,1 +1,2 @@
 This is the initial content on line 1
+This is additional content for line 2
